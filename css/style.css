@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #111; color: #fff; }
+header { background: #222; padding: 20px; text-align: center; }
+.hero-img { width: 100%; max-height: 400px; object-fit: cover; }
+section { padding: 20px; text-align: center; }
+.service, .testimonial { margin: 15px 0; }
+.service img, .testimonial img { max-width: 150px; border-radius: 8px; }
+footer { background: #222; padding: 10px; text-align: center; margin-top: 20px; }
